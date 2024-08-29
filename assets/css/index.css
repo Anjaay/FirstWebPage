@@ -3,6 +3,10 @@ body:after {
     
 }
 
+.content{
+    width: 100%;
+}
+
 .image-container {
     position: relative;
     display: inline-block;
