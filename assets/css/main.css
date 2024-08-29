@@ -2853,7 +2853,7 @@
 			border-collapse: separate;
 		}
 
-			table.alt tbody tr td {
+			table.alt tbody:after tr td {
 				border: solid 1px;
 				border-left-width: 0;
 				border-top-width: 0;
